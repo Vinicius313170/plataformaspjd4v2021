@@ -14,23 +14,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 765711289601933588, guid: 4235d0f79d1569040bac3afcc5302576, type: 3}
       propertyPath: m_Color.b
-      value: 0.014328952
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 765711289601933588, guid: 4235d0f79d1569040bac3afcc5302576, type: 3}
       propertyPath: m_Color.g
-      value: 0.014328952
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 765711289601933588, guid: 4235d0f79d1569040bac3afcc5302576, type: 3}
       propertyPath: m_Color.r
-      value: 0.4339623
+      value: 0.90196085
       objectReference: {fileID: 0}
     - target: {fileID: 765711289601933590, guid: 4235d0f79d1569040bac3afcc5302576, type: 3}
       propertyPath: resetTime
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 765711289601933590, guid: 4235d0f79d1569040bac3afcc5302576, type: 3}
       propertyPath: timeToFall
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 765711289601933591, guid: 4235d0f79d1569040bac3afcc5302576, type: 3}
       propertyPath: m_LocalPosition.x
